@@ -1,3 +1,4 @@
-# 这是我学习markdown的文件标题
+# this is my studing markdown file
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
